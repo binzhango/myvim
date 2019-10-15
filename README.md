@@ -15,7 +15,7 @@ yy10p # paste 10 times after
 - gg : first line beginning
 - GG : last line beginning
 - G$ : last line end
-- +  : next line beginning
+- \+  : next line beginning
 - j0 : next line beginning
 - g_ : last non whitespace of line
 - $  : end ot the line
